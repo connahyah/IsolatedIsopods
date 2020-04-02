@@ -37,8 +37,6 @@ Charge for extra people (Y/N)
 
 Cancellation policy (strict, flexible, moderate)
 
-Review scores: 
-
 Review scores rating
 
 Reviews per month
