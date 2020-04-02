@@ -26,5 +26,3 @@ What are the main factors that influence Airbnb renting price?
 5) Compare number of bathrooms and price
 
 6) Compare fees and price
-
-# Use pandas to load json converted DataFrame into database
