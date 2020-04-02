@@ -15,18 +15,18 @@ What are the main factors that influence Airbnb renting price?
 3) What is the relationship between the listing price and 1) Neighborhood; 2) Super host; 3) Number of bedrooms; 4) Number of bathrooms; 5) Cleaning fee (Y/N); 6) Security deposit (Y/N); 7) Charge for extra people (Y/N); 8) Cancellation policy (strict, flexible, moderate); 9) Review scores rating; 10) Reviews per month; 11) Review scores rating
 
 # ETL
-Count number of unique properties --> 31253
+1) Count number of unique properties --> 31253
 
-Compare neighborhood and price
+2) Compare neighborhood and price
 
-Compare superhost status and price
+3) Compare superhost status and price
 
-Compare bedroom and price
+4) Compare bedroom and price
 
-Compare bathroom and price
+5) Compare bathroom and price
 
-Compare fees and price
+6) Compare fees and price
 
-Compare superhost status and price
+7) Compare superhost status and price
 
 # Use pandas to load json converted DataFrame into database
