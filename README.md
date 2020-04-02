@@ -21,9 +21,9 @@ What are the main factors that influence Airbnb renting price?
 
 3) Compare superhost status and price
 
-4) Compare bedroom and price
+4) Compare number of bedrooms and price
 
-5) Compare bathroom and price
+5) Compare number of bathrooms and price
 
 6) Compare fees and price
 
