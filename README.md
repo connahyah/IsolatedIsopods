@@ -1,4 +1,4 @@
-# IsolatedIsopods
+# Isolated Isopods
 
 Data source: https://www.kaggle.com/oindrilasen/la-airbnb-listings
 
