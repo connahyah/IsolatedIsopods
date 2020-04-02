@@ -3,10 +3,10 @@
 Data source: https://www.kaggle.com/oindrilasen/la-airbnb-listings
 Trello board: https://trello.com/b/HiNoxhxh/project-2
 
-Primary research question: 
+# Primary research question: 
 What are the main factors that influence Airbnb renting price?
 
-Secondary research questions:
+# Secondary research questions:
 How many Airbnb listings does each neighborhood in Los Angeles have?
 Group By Neighborhood count
 Which neighborhoods have the most expensive listings?
@@ -26,6 +26,7 @@ Review scores rating
 Reviews per month
 Review scores rating
 
+# ETL
 Ensure each listing is a unique property
 31253 unique properties
 
@@ -45,4 +46,4 @@ Merge to show comparison between fees and price
 Property Reviews Dataframe
 Merge to show comparison between superhost status and price
 
-#Use pandas to load json converted DataFrame into database
+# Use pandas to load json converted DataFrame into database
