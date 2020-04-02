@@ -37,4 +37,12 @@ Merge to show comparison between superhost status and price
 
 Property stats dataframe
 Merge to show comparison between bedroom and price
+Merge to show comparison between bathroom and price
 
+Associated Fees dataframe
+Merge to show comparison between fees and price
+
+Property Reviews Dataframe
+Merge to show comparison between superhost status and price
+
+#Use pandas to load json converted DataFrame into database
