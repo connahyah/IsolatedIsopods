@@ -1,6 +1,7 @@
 # IsolatedIsopods
 
 Data source: https://www.kaggle.com/oindrilasen/la-airbnb-listings
+
 Trello board: https://trello.com/b/HiNoxhxh/project-2
 
 # Primary research question: 
