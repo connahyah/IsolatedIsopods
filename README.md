@@ -44,23 +44,18 @@ Reviews per month
 Review scores rating
 
 # ETL
-Ensure each listing is a unique property
-31253 unique properties
+Count number of unique properties --> 31253
 
-neighbourhood dataframe
-Merge to show comparison between neighborhood and price
+Compare neighborhood and price
 
-host info data frame
-Merge to show comparison between superhost status and price
+Compare superhost status and price
 
-Property stats dataframe
-Merge to show comparison between bedroom and price
-Merge to show comparison between bathroom and price
+Compare bedroom and price
 
-Associated Fees dataframe
-Merge to show comparison between fees and price
+Compare bathroom and price
 
-Property Reviews Dataframe
-Merge to show comparison between superhost status and price
+Compare fees and price
+
+Compare superhost status and price
 
 # Use pandas to load json converted DataFrame into database
