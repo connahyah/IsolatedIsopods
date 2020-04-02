@@ -7,41 +7,12 @@ Trello board: https://trello.com/b/HiNoxhxh/project-2
 What are the main factors that influence Airbnb renting price?
 
 # Secondary research questions:
-How many Airbnb listings does each neighborhood in Los Angeles have?
+How many Airbnb listings does each neighborhood in Los Angeles have? (Group By Neighborhood count)
 
-Group By Neighborhood count
+Which neighborhoods have the most expensive listings? (Group by neighborhoods, sum price)
 
-Which neighborhoods have the most expensive listings?
-
-Neighborhoods
-
-Price
-
-Group by neighborhoods, sum price
-
-What is the relationship between the listing price and
-
-Neighborhood
-
-Super host
-
-Number of bedrooms
-
-Number of bathrooms
-
-Cleaning fee (Y/N)
-
-Security deposit (Y/N)
-
-Charge for extra people (Y/N)
-
-Cancellation policy (strict, flexible, moderate)
-
-Review scores rating
-
-Reviews per month
-
-Review scores rating
+What is the relationship between the listing price and 1) Neighborhood; 2) Super host; 3) Number of bedrooms; 4) Number of bathrooms; 5) 
+Cleaning fee (Y/N); 6) Security deposit (Y/N); 7) Charge for extra people (Y/N); 8) Cancellation policy (strict, flexible, moderate); 9) Review scores rating; 10) Reviews per month; 11) Review scores rating
 
 # ETL
 Count number of unique properties --> 31253
