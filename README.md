@@ -26,15 +26,15 @@ Review scores rating
 Reviews per month
 Review scores rating
 
-# Ensure each listing is a unique property
+Ensure each listing is a unique property
 31253 unique properties
 
-#neighbourhood dataframe
-# Merge to show comparison between neighborhood and price
+neighbourhood dataframe
+Merge to show comparison between neighborhood and price
 
-# host info data frame
-# Merge to show comparison between superhost status and price
+host info data frame
+Merge to show comparison between superhost status and price
 
-# Property stats dataframe
-# Merge to show comparison between bedroom and price
+Property stats dataframe
+Merge to show comparison between bedroom and price
 
